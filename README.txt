@@ -1,3 +1,5 @@
+# NLP : Text Processing and Retrieval
+
 This folder contains the template code for a search engine application. 
 
 main.py - The main module that contains the outline of the Search Engine. Do not change anything in this file.
